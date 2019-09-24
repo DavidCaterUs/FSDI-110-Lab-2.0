@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab 2.0/CarRental/CarRental.csproj": {}
+  },
+  "projects": {
+    "/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab 2.0/CarRental/CarRental.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab 2.0/CarRental/CarRental.csproj",
+        "projectName": "CarRental",
+        "projectPath": "/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab 2.0/CarRental/CarRental.csproj",
+        "packagesPath": "/home/roberto/.nuget/packages/",
+        "outputPath": "/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab 2.0/CarRental/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/roberto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
